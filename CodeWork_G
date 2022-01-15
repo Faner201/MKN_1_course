@@ -1,0 +1,19 @@
+#include <iostream>
+#include <string>
+#include <fstream>
+
+using namespace std;
+
+int main(){
+
+    int V , H , L ;
+
+    cin << V << H << L;
+
+    char** char_arr = new char* [n]{'.'};
+    for(int i  = 0; i < H ; i++)
+    {
+        char_arr[i] =  new char [n]{'.'};
+    }
+    
+}
